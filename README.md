@@ -27,6 +27,7 @@ anonymous_enable=NO
 
 # Local user options
 local_enable=YES
+write_enable=YES
 
 # Lockdown options
 chroot_local_user=YES
